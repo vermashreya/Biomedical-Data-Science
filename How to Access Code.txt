@@ -1,0 +1,2 @@
+Access the code here:
+https://github.com/parisar/-Biomedical-Data-Science---2019/tree/master/Code/10%20-%20Genomics
